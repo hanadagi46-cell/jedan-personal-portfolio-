@@ -1,4 +1,4 @@
-This project is a personal portfolio websitebuilt usingpure html5 only The goal is to demonstrate strong understanding of semantic HTML, accessibility, and multi-page web architecture without using CSS or JavaScript.
+ .This project is a personal portfolio websitebuilt usingpure html5 only The goal is to demonstrate strong understanding of semantic HTML, accessibility, and multi-page web architecture without using CSS or JavaScript.
 
 ##Objectives
 

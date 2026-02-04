@@ -16,8 +16,5 @@ this project style apersonal portfolio using
  Box model [margin,padding,box-sizing]
  typography and colo styling
  Hover effecte for links and buttons
- responsivr images
- ## confirmain
- no javascript or css  frameworks were used in
- this project
-## Name;miskir
+ responsivr imagesg 
+ Name miskir 
